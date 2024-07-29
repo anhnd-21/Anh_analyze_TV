@@ -41,10 +41,10 @@ Dữ liệu khiếu nại của khách hàng về các sản phẩm và dịch v
   * Tạo báo cáo theo dõi số lượng khiếu nại tài chính trong năm với các danh mục sau: số lượng khiếu nại theo tháng, số lượng khiếu nại theo sản phẩm, số lượng khiếu nại theo vấn đề, số lượng khiếu nại qua phương tiện truyền thông, danh mục phản hồi khiếu nại và tỷ lệ phản hồi kịp thời
 
 # 6. Báo cáo:
-![](Dashboard_picture_update.png)
+![](Picture.png)
 
 ## Video báo cáo:
-https://github.com/user-attachments/assets/3e5ed9af-dd54-4e28-9168-58aca15a5df3
+https://github.com/user-attachments/assets/ca5c191d-c003-42b0-9ae1-32a4d8209111
 
 # 7. Kết quả và Phát hiện
 
